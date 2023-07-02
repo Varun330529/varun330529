@@ -19,10 +19,10 @@ That's why I like to make things that make a difference.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/sachin kathuria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sachin kathuria" height="30" width="40" /></a>
-<a href="https://instagram.com/sachin.kathuria.712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sachin.kathuria.712" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rkinfoboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rkinfoboy" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sachinworkvstb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sachinworkvstb" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sachin kathuria" height="30" width="40" /></a>
+<a href="https://instagram.com/varun__vv__verma_05?igshid=ZDc4ODBmNjlmNQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sachin.kathuria.712" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rkinfoboy" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sachinworkvstb" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
