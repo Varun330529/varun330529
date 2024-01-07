@@ -11,11 +11,11 @@ That's why I like to make things that make a difference.
 
 - 🔭 I’m currently working on: **Attendance management system**
 
-- 🌱 I’m currently learning: **Spring Boot**
+- 🌱 I’m currently learning: **react js**
 
 - 💬 Ask me about: **Any Thing**
 
-- ⚡ Fun fact **I like Blue color More**
+- ⚡ Fun fact **I like blue color More**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
