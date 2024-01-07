@@ -9,7 +9,7 @@ That's why I like to make things that make a difference.
 
 <img align="right" alt="GIF" src="https://github.com/Sachin8178/Sachin8178/blob/main/giphy.gif?raw=true" width="408" height="318" />
 
-- 🔭 I’m currently working on: **Attendance management system**
+- 🔭 I’m currently working on: **Money management system**
 
 - 🌱 I’m currently learning: **react js**
 
